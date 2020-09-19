@@ -5,4 +5,4 @@ Designed an interactive web page (HTML, CSS, JavaScript, AJAX) for users to sear
 - Used MySQL to store real position data (company, requirement, deadline, etc.) and deployed it to Amazon
 RDS for better simplicity and scalability.
 - Deployed to Amazon EC2 for better performance.
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/jzhan253/JobRecommendation/blob/master/Capture.PNG?raw=true)
